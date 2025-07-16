@@ -90,3 +90,4 @@ Overall, this task allowed me to create a professional and user-centric e-commer
 
 # Output: 
 
+<img width="1440" height="3569" alt="Image" src="https://github.com/user-attachments/assets/7a384322-2a67-48f1-853b-5b6fb8d18b84" />
